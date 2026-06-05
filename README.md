@@ -38,6 +38,6 @@ Além disso, serve como base para projetos mais avançados, como e-commerces ou 
 
 ## 🖇️ Links
 
-Repositório: 
+Repositório: https://github.com/luancarlos13/PetVida
 
-Deploy do Projeto:
+Deploy do Projeto: https://luancarlos13.github.io/PetVida/
